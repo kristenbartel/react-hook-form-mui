@@ -1,3 +1,10 @@
+# Technology
+We’re gonna use following modules:
+-react 17/16
+-material-ui 4.11.4
+-react-hook-form 7
+-yup
+-@hookform/resolvers 2.6.0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
